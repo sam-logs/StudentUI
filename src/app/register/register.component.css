@@ -1,16 +1,5 @@
-.row{
-    margin-right: -15px;
-    margin-top: 70px;
-    margin-left: -15px;
-    margin-bottom: 70px;
-    align-content: center;
-    justify-content: space-between;
-    display: flex;
-}
-
 body {
     padding-top:50px;
-    
 }
 fieldset {
     border: thin solid #ccc; 
